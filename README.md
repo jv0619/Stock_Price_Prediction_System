@@ -70,13 +70,7 @@ Follow these steps to set up the Stock Prediction Project on your local machine:
   - `keras`: Build and train the LSTM model.
   - `sklearn`: Perform data preprocessing and evaluation of the model.
 
-## Contributing
 
-If you'd like to contribute to the project or report issues, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -84,6 +78,6 @@ Special thanks to the open-source community for developing and maintaining the l
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact [your-email@example.com].
+If you have any questions or need further assistance, please feel free to contact venkatesh.aideveloper192@gmail.com.
 
 Happy Stock Predicting!
